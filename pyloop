@@ -1,0 +1,9 @@
+# Initialise the variable 
+
+z=5 
+
+# Loop
+
+while z > 10:
+    print(z)
+
